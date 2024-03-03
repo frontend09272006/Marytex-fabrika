@@ -1,0 +1,100 @@
+.navbar-bg{
+    background-image: url(img/navbar-bg.png);
+    width: 100%;
+    min-height: 200px;
+    background-repeat: no-repeat;
+}
+.navbar-link{
+    width: 100%;
+}
+
+.quti-bg{
+    background-image: url(img/bg-tutun.png);
+    width: 100%;
+    min-height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.border-black{
+    width: 250px;
+    height: 50px;
+    border-radius: 30px;
+}
+.sarlavha{
+    min-height: 200px;
+    background-color: white;
+    border-radius: 100px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray;
+}
+
+/* quti 2 start  */
+.quti2-bg{
+    background-image: url(img/bg-tutun.png);
+    width: 100%;
+    min-height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* transform: rotate(180deg); */
+
+}
+
+.ellips{
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* quti 2 end  */
+
+/* quti 3 start  */
+.quti3-bg{
+    background-image: url(img/tarvuz.png);
+    width: 100%;
+    min-height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* quti 3 end  */
+
+.korsatgich{
+    background-image: url(img/korsatgich.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.quti4-bg{
+    width: 100%;
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: whitesmoke;
+}
+.tarvuz{
+    /* border: 5px solid gray; */
+    border-radius: 50px;
+    background-color: red;
+    height: 700px;
+    width: 100%;
+
+}
+.row-mt{
+    margin-top: 100px;
+}
+.quti5-bg{
+    background-image: url(img/smoke-background-png-images-thumbnail-1649450008\ 6.png);
+    width: 100%;
+    min-height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.kompyuter-ayol{
+    margin-top: 235px;
+}
